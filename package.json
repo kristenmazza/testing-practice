@@ -1,0 +1,20 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Testing practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristenmazza/testing-practice.git"
+  },
+  "author": "Kristen Mazza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristenmazza/testing-practice/issues"
+  },
+  "homepage": "https://github.com/kristenmazza/testing-practice#readme"
+}
